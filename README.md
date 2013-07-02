@@ -27,6 +27,7 @@
 - Nashville Guys (Randy, Kenneth, Nathan, Alex)
 - goBRANDgo (Brandon, Brian)
 - Chip Bennett
+- Asynchrony Solutions (possibly Shawn Donoho, Kelly White or Paul Hawke)
 
 ##Details
 - 1 Day Event
@@ -57,6 +58,7 @@
 ###Possible
 - goBRANDgo
 - Integrity
+- Talking to Asynchrony Solutions
 
 ##Promotion
 - 
