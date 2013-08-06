@@ -8,7 +8,7 @@
 
 ##Venue
 - Maryville University - Eric Juden - $1200 for Auditorium if it isn't donated. $100 per class room.  Currently no ETA on confirmation - give them another week.
-- Aaron Grahm (sp?) checking with Wash U.
+- Aaron Graham checking with Wash U.
 - Lumiere (Has a minimum food budget that will make rooms cheaper, small A/V fee)
 
 ##Budget
