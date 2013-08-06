@@ -1,17 +1,26 @@
 #Can We Pull off a WordCamp?
 - Get Venue
-- Contact Andrea (?) about Automattic Support
+- Set Time
+- Get Sponsors
+- Set Budget
 - Get Speakers
+- Set Tracks
 
 ##Venue
-- Contact: Eric Juden
-- @ Maryville University
+- Maryville University - Eric Juden - $1200 for Auditorium if it isn't donated. $100 per class room.  Currently no ETA on confirmation - give them another week.
+- Aaron Grahm (sp?) checking with Wash U.
+- Lumiere (Has a minimum food budget that will make rooms cheaper, small A/V fee)
+
+##Budget
+- $1500 donation from WordPress Foundation
+
+##Attendance
+- Last year we had 250ish
 
 ##Timing
-- Shooting for Mid/End September
 - Game Jam Sep 13-15
 - Strange Loop Sep 18-20th
-- Depends on Maryville's availability.
+- Trying for October 5th
 
 ##Logo
 - Contact: Anda Creative
