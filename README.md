@@ -8,8 +8,9 @@
 
 ##Venue
 - Maryville University - Eric Juden - $1200 for Auditorium if it isn't donated. $100 per class room.  Currently no ETA on confirmation - give them another week.
-- Aaron Graham checking with Wash U.
 - Lumiere (Has a minimum food budget that will make rooms cheaper, small A/V fee)
+- Webster University - Hilary Rallo - Not sure on price
+- Wash U. - Just needs to know space requiremnt
 
 ##Budget
 - $1500 donation from WordPress Foundation
@@ -20,7 +21,7 @@
 ##Timing
 - Game Jam Sep 13-15
 - Strange Loop Sep 18-20th
-- Trying for October 5th
+- First Quarter 2014 - March 1st..?
 
 ##Logo
 - Contact: Anda Creative
@@ -36,7 +37,7 @@
 - Nashville Guys (Randy, Kenneth, Nathan, Alex)
 - goBRANDgo (Brandon, Brian)
 - Chip Bennett
-- Asynchrony Solutions (possibly Shawn Donoho, Kelly White or Paul Hawke)
+- Asynchrony Solutions (Possibly Kelly White or Paul Hawke.)
 
 ##Details
 - 1 Day Event
@@ -67,7 +68,7 @@
 ###Possible
 - goBRANDgo
 - Integrity
-- Talking to Asynchrony Solutions
+- MasterCard's Incubator projects - Simplify.com
 
 ##Promotion
 - 
