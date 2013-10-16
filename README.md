@@ -34,10 +34,12 @@
 - Eric Juden
 - Nashville Guys (Randy, Kenneth, Nathan, Alex)
 - goBRANDgo (Brandon, Brian)
-- [Chip Bennett](http://twitter.com/@chip_bennet)
-- [Pippin Williamson](http://twitter.com/@pippinsplugins)
-- [Carlos Casarez](http://twitter.com/@heckyesitis)
+- [Chip Bennett](http://twitter.com/@chip_bennet)*
+- [Pippin Williamson](http://twitter.com/@pippinsplugins)*
+- [Carlos Casarez](http://twitter.com/@heckyesitis)*
 - Asynchrony Solutions (Possibly Kelly White or Paul Hawke.)
+
+*I've contacted these people about speaking - [Aaron](http://twitter.com/coderaaron)
 
 ##Details
 - 1 Day Event
