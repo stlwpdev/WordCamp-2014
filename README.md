@@ -26,15 +26,15 @@
 - Contact: Anda Creative
 
 ##Automatticians
-- Ryan Markel (From St. Louis)
+- [Ryan Markel](http://twitter.com/@ryanmarkel) (From St. Louis)
 - [Daryl Koopersmith](http://twitter.com/@koop) (former Automattician, WUSTL alum)*
 
 ##Speakers
 - Mary Baum
-- Josh Ray
-- Matt Keehner
+- [Josh Ray](http://twitter.com/@pdxOllo)
+- [Matt Keehner](http://twitter.com/@matthewkeehner)
 - [Eric Juden](http://twitter.com/@ericjuden)
-- Nashville Guys (Randy, Kenneth, Nathan, Alex)
+- Nashville Guys (Randy, Kenneth, [Nathaniel](http://twitter.com/@nathanielks), [Alex](http://twitter.com/@patin__))
 - goBRANDgo (Brandon, Brian)
 - [Chip Bennett](http://twitter.com/@chip_bennet)*
 - [Pippin Williamson](http://twitter.com/@pippinsplugins)*
