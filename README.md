@@ -7,10 +7,12 @@
 - Set Tracks
 
 ##Venue
+- Wash U. - Just needs to know space requiremnt
+- - Lab Sciencs Building: ehttp://wustl.edu/community/visitors/tour/danforth/laboratory-sciences-building.html
+- - Auditorium, 3 classrooms, and common area reserved
 - Maryville University - Eric Juden - $1200 for Auditorium if it isn't donated. $100 per class room.  Currently no ETA on confirmation - give them another week.
 - Lumiere (Has a minimum food budget that will make rooms cheaper, small A/V fee)
 - Webster University - Hilary Rallo - Not sure on price
-- Wash U. - Just needs to know space requiremnt
 
 ##Budget
 - $1500 donation from WordPress Foundation
@@ -19,15 +21,16 @@
 - Last year we had 250ish
 
 ##Timing
+- March 1st, 2014
 - Game Jam Sep 13-15
 - Strange Loop Sep 18-20th
-- First Quarter 2014 - March 1st..?
 
 ##Logo
 - Contact: Anda Creative
 
 ##Automatticians
 - Ryan Markel (From St. Louis)
+- Daryl Koopersmith (former Automattician, WUSTL alum @koop)*
 
 ##Speakers
 - Mary Baum
@@ -36,7 +39,9 @@
 - Eric Juden
 - Nashville Guys (Randy, Kenneth, Nathan, Alex)
 - goBRANDgo (Brandon, Brian)
-- Chip Bennett
+- Chip Bennett (@chip_bennet)*
+- Pippin Williamson (@pippinsplugins)*
+- Carlos Casarez (@heckyesitis)*
 - Asynchrony Solutions (Possibly Kelly White or Paul Hawke.)
 
 ##Details
@@ -80,3 +85,5 @@
 
 ##Others
 - SLCEC: St. Louis County Economic Councel
+
+* Aaron Graham (@coderaaron) has reached out to ask about speaking
