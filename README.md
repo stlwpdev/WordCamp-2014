@@ -1,6 +1,6 @@
 #Can We Pull off a WordCamp?
-- ✓Get Venue
-- ✓Set Time
+- Get Venue ✓
+- Set Time ✓
 - Get Sponsors
 - Set Budget
 - Get Speakers
