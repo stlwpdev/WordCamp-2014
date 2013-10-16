@@ -33,7 +33,7 @@
 - Mary Baum
 - Josh Ray
 - Matt Keehner
-- [Eric Juden](http://twitter.com/@ericjuden)*
+- [Eric Juden](http://twitter.com/@ericjuden)
 - Nashville Guys (Randy, Kenneth, Nathan, Alex)
 - goBRANDgo (Brandon, Brian)
 - [Chip Bennett](http://twitter.com/@chip_bennet)*
