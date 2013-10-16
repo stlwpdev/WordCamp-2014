@@ -10,6 +10,8 @@
 - Wash U. - Just needs to know space requiremnt
 - [Lab Sciencs Building](http://wustl.edu/community/visitors/tour/danforth/laboratory-sciences-building.html)
 - Auditorium, 3 classrooms, and common area reserved
+-![auditorium](auditorium.jpg)
+-![classroom](classroom.jpg)
 
 ##Budget
 - $1500 donation from WordPress Foundation
