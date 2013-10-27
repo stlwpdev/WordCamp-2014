@@ -2,12 +2,11 @@
 - Get Venue ✓
 - Set Time ✓
 - Get Sponsors
-- Set Budget
+- Set Budget ( in progress with Andrea @central )
 - Get Speakers
 - Set Tracks
 
 ##Venue
-- Wash U. - Just needs to know space requiremnt
 - [Lab Sciencs Building](http://wustl.edu/community/visitors/tour/danforth/laboratory-sciences-building.html)
 - Auditorium, 3 classrooms, and common area reserved
 -![auditorium](auditorium.jpg)
@@ -30,6 +29,8 @@
 - [Daryl Koopersmith](http://twitter.com/@koop) (former Automattician, WUSTL alum)*
 
 ##Speakers
+For a one day event 15 speakers for 3 tracks is recommended in addition to 2 all attendee sessions ( opening, closing )
+
 - Mary Baum
 - [Josh Ray](http://twitter.com/@pdxOllo)
 - [Matt Keehner](http://twitter.com/@matthewkeehner)
@@ -40,6 +41,7 @@
 - [Pippin Williamson](http://twitter.com/@pippinsplugins)*
 - [Carlos Casarez](http://twitter.com/@heckyesitis)*
 - Asynchrony Solutions (Possibly Kelly White or Paul Hawke.)
+- [Myke Bates](https://twitter.com/MykeBates)
 
 *I've contacted these people about speaking - [Aaron](http://twitter.com/coderaaron)
 
@@ -53,9 +55,11 @@
 - Josh Ray
 - Mary Baum
 - Amanda
+- Myke Bates ( speaker relations )
 
 ##Cameras
 - Get Cameras from Automattic
+- AV consulting [Chris Miller](https://twitter.com/idonotes)
 
 ##Sponsors
 ###Last Years
@@ -75,12 +79,13 @@
 - MasterCard's Incubator projects - Simplify.com
 
 ##Promotion
-- 
+- <http://2014.stlouis.wordcamp.org/> is being propagated for call for speakers and sponsors
 
 ##Track Idea
-- Build a Plugin Start to Finish
-- Hackathon / Code Jam
-- Business Track/Topic
+Discussed with Central and was recommended to have :
+
+- Development ( Themes, Plugins)
+- Design / UX 
+- Business / Users
 
 ##Others
-- SLCEC: St. Louis County Economic Councel
