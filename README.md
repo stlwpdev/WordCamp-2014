@@ -31,7 +31,7 @@
 ##Speakers
 For a one day event 15 speakers for 3 tracks is recommended in addition to 2 all attendee sessions ( opening, closing )
 
-- Mary Baum
+- [Mary Baum](http://twitter.com/@marybaum)
 - [Josh Ray](http://twitter.com/@pdxOllo)
 - [Matt Keehner](http://twitter.com/@matthewkeehner)
 - [Eric Juden](http://twitter.com/@ericjuden)
