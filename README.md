@@ -82,6 +82,10 @@ For a one day event 15 speakers for 3 tracks is recommended in addition to 2 all
 
 ##Promotion
 - <http://2014.stlouis.wordcamp.org/> - needs style from anda creative added
+- Social Media contact [Nile Flores](https://twitter.com/blondishnet)
+- <https://twitter.com/wordcampstl>
+- <https://www.facebook.com/WordCampSTL>
+
 
 ##Tracks
 
