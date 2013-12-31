@@ -1,28 +1,30 @@
-#Can We Pull off a WordCamp?
+![WordCamp St. Louis 2014](header_wordcamp.png)
+
+# Master To-Do's 
 - Get Venue ✓
 - Set Time ✓
 - Get Sponsors
-- Set Budget ( in progress with Andrea @central )
-- Get Speakers
-- Set Tracks
+- Set Budget - 75% complete 
+- Get Speakers 
 
 ##Venue
 - [Lab Sciencs Building](http://wustl.edu/community/visitors/tour/danforth/laboratory-sciences-building.html)
+
 - Auditorium, 3 classrooms, and common area reserved
--![auditorium](auditorium.jpg)
--![classroom](classroom.jpg)
+
+![auditorium](auditorium.jpg)
+
+![classroom](classroom.jpg)
 
 ##Budget
-- $1500 donation from WordPress Foundation
+- donations from [Multi-Event Sponsorship Packages](http://central.wordcamp.org/multi-event-sponsorship-packages)
+- Ticket Sales based on 250 person attendance
 
 ##Attendance
-- Last year we had 250ish
+- Last year we had 250ish planning for this as ticket sale limit
 
 ##Timing
 - March 1st, 2014
-
-##Logo
-- Contact: Anda Creative
 
 ##Automatticians
 - [Ryan Markel](http://twitter.com/@ryanmarkel) (From St. Louis)
@@ -47,7 +49,7 @@ For a one day event 15 speakers for 3 tracks is recommended in addition to 2 all
 
 ##Details
 - 1 Day Event
-- $20 Ticket?
+- $20 Ticket
 
 ##Volunteers
 - Matthew Ellsworth
@@ -79,13 +81,12 @@ For a one day event 15 speakers for 3 tracks is recommended in addition to 2 all
 - MasterCard's Incubator projects - Simplify.com
 
 ##Promotion
-- <http://2014.stlouis.wordcamp.org/> is being propagated for call for speakers and sponsors
+- <http://2014.stlouis.wordcamp.org/> - needs style from anda creative added
 
-##Track Idea
-Discussed with Central and was recommended to have :
+##Tracks
 
 - Development ( Themes, Plugins)
 - Design / UX 
 - Business / Users
 
-##Others
+
